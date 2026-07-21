@@ -1,6 +1,6 @@
 # Olá, sou o Johnatan!
 
-Estudante de Ciência da Computação (3º semestre) na Estácio. 
+Estudante de Ciência da Computação (4º semestre) na Estácio. 
 
 Tenho interesse amplo na área de Tecnologia da Informação, praticando desde lógica de programação e estruturas de dados até a gestão de bancos de dados e ambientes Linux. Busco aprender continuamente e aplicar meus conhecimentos em projetos práticos.
 
