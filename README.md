@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, sou o Johnatan!
 
-<!--
-**JohnCodedSA/JohnCodedSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação (3º semestre) na Estácio. 
 
-Here are some ideas to get you started:
+Tenho interesse amplo na área de Tecnologia da Informação, praticando desde lógica de programação e estruturas de dados até a gestão de bancos de dados e ambientes Linux. Busco aprender continuamente e aplicar meus conhecimentos em projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tecnologias e Ferramentas com as quais pratico:
+
+- **Linguagens:** C, Python, SQL, HTML, CSS, JavaScript, PHP
+- **Bancos de Dados:** PostgreSQL, SQLite
+- **Sistemas e Ambientes:** Linux (Ubuntu), Git, GitHub, VS Code, VirtualBox
+
+---
+
+### Contato
+
+- **LinkedIn:** https://www.linkedin.com/in/johnatansaraujo/
